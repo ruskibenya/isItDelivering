@@ -1,0 +1,25 @@
+{
+  "name": "is-it-delivering",
+  "version": "1.0.0",
+  "description": "Demo app using the Wolt API and Vonage Node SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "food-delivery",
+    "node",
+    "express",
+    "Wolt",
+    "Facebook",
+    "Messenger"
+  ],
+  "author": "Benjamin-Aronov",
+  "license": "ISC",
+  "dependencies": {
+    "@vonage/server-sdk": "^2.10.7-beta-2",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "got": "^11.8.2"
+  }
+}
